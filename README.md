@@ -1,16 +1,12 @@
 ## Hi there 👋 my name is Bruno Boldrim Saboya
 
-- Sou estudante do último semestre de Engenharia de Computação no Insper, apaixonado por criar soluções inovadoras usando inteligência artificial e automação. Atualmente, trabalho desenvolvendo aplicações voltadas para RPA utilizando técnicas avançadas de NLP e modelos LLM open source, sempre buscando transformar processos complexos em soluções eficientes e escaláveis.
+Sou estudante do último semestre de Engenharia de Computação no Insper, apaixonado por criar soluções inovadoras usando inteligência artificial e automação. Atualmente, trabalho desenvolvendo aplicações voltadas para RPA utilizando técnicas avançadas de NLP e modelos LLM open source, sempre buscando transformar processos complexos em soluções eficientes e escaláveis.
 
-- Ao longo da minha trajetória, adquiri experiência em desenvolvimento full-stack e ciência de dados, explorando linguagens como Python, JavaScript, Java, C#, além de frameworks modernos como PyTorch, TensorFlow, Django e Node.js. Tenho também sólida experiência com bancos de dados SQL, serviços AWS e soluções em cloud computing.
+Ao longo da minha trajetória, adquiri experiência em desenvolvimento full-stack e ciência de dados, explorando linguagens como Python, JavaScript, Java, C#, além de frameworks modernos como PyTorch, TensorFlow, Django e Node.js. Tenho também sólida experiência com bancos de dados SQL, serviços AWS e soluções em cloud computing.
+Estou sempre aberto a novos desafios que me permitam aprender, contribuir e impactar positivamente as organizações. Se você procura alguém que alie criatividade, técnica e comprometimento, adoraria trocar ideias sobre como posso colaborar com seu projeto ou empresa.
 
-- Estou sempre aberto a novos desafios que me permitam aprender, contribuir e impactar positivamente as organizações. Se você procura alguém que alie criatividade, técnica e comprometimento, adoraria trocar ideias sobre como posso colaborar com seu projeto ou empresa.
+🧑‍💻 Tecnologias das quais já trabalhei:
 
-- 🔭 I’m currently working with Artificial Inteligence, with focus on NLP and LLM solutions for mostly RPA problems.
-
-- 🌱 I’m currently learning and studying about NLP, Reinforcement Learning, Coding Interviews, BlockChain,  
-
-- 🧑‍💻 Techs that i've worked with:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -31,10 +27,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-- 📫 Meus Contatos:
-![[LinkedIn](https://www.linkedin.com/in/bruno-saboya/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 
 <!--
 **BrunoSaboya/BrunoSaboya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
