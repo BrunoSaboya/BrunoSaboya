@@ -1,7 +1,5 @@
 ## Hi there 👋 my name is Bruno Boldrim Saboya
 
-Sou estudante do último semestre de Engenharia de Computação no Insper, apaixonado por criar soluções inovadoras usando inteligência artificial e automação. Atualmente, trabalho desenvolvendo aplicações voltadas para RPA utilizando técnicas avançadas de NLP e modelos LLM open source, sempre buscando transformar processos complexos em soluções eficientes e escaláveis.
-
 Ao longo da minha trajetória, adquiri experiência em desenvolvimento full-stack e ciência de dados, explorando linguagens como Python, JavaScript, Java, C#, além de frameworks modernos como PyTorch, TensorFlow, Django e Node.js. Tenho também sólida experiência com bancos de dados SQL, serviços AWS e soluções em cloud computing.
 Estou sempre aberto a novos desafios que me permitam aprender, contribuir e impactar positivamente as organizações. Se você procura alguém que alie criatividade, técnica e comprometimento, adoraria trocar ideias sobre como posso colaborar com seu projeto ou empresa.
 
